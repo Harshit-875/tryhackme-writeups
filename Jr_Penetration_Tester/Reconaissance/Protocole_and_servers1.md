@@ -402,27 +402,6 @@ Understanding these protocols is essential for:
 
 ---
 
-# Final Flags
-
-## HTTP
-
-```text
-THM{e3eb0a1df437f3f97a64aca5952c8ea0}
-```
-
-## FTP
-
-```text
-THM{364db6ad0e3ddfe7bf0b1870fb06fbdf}
-```
-
-## SMTP
-
-```text
-THM{5b31ddfc0c11d81eba776e983c35e9b5}
-```
-
----
 
 # Conclusion
 
